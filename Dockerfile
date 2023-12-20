@@ -1,10 +1,11 @@
-FROM python:3.9
+FROM python:3.9-slim
 
 ENV APP_HOME /app
 WORKDIR $APP_HOME
-COPY . ./
-
+COPY . .
 
 RUN pip install -r requirements.txt
 
-CMD exec gunicorn --bind :$PORT --workers 1 --threads 0 --app:app
+EXPOSE 5000
+
+CMD exec gunicorn --bind :5000 --workers 1 --threads 0 main:app
