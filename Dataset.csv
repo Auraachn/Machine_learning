@@ -1,0 +1,867 @@
+ID,society,area_type,location,Description,availability,price,total_sqft,surface_area,bedroom,bathroom,carport
+1,Michelia Randu,Rumah 1 ,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,465000000,36,60,2,1,1
+2,Michelia Randu,Rumah 2,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,469000000,36,61,2,1,1
+3,Michelia Randu,Rumah 3,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,473000000,36,62,2,1,1
+4,Michelia Randu,Rumah 4,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,477000000,36,63,2,1,1
+5,Michelia Randu,Rumah 5,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,481000000,36,64,2,1,1
+6,Michelia Randu,Rumah 6,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,489000000,36,66,2,1,1
+7,Michelia Randu,Rumah 7,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,493000000,36,67,2,1,1
+8,Michelia Randu,Rumah 8,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,501000000,36,69,2,1,1
+9,Michelia Randu,Rumah 9,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,525000000,42,70,2,1,1
+10,Michelia Randu,Rumah 10,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,529500000,42,71,2,1,1
+11,Michelia Randu,Rumah 11,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,534000000,42,72,2,1,1
+12,Michelia Randu,Rumah 12,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,538500000,42,73,2,1,1
+13,Michelia Randu,Rumah 13,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,543000000,42,74,2,1,1
+14,Michelia Randu,Rumah 14,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,547500000,42,75,2,1,1
+15,Michelia Randu,Rumah 15,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,556500000,42,77,2,1,1
+16,Michelia Randu,Rumah 16,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,561000000,42,78,2,1,1
+17,Michelia Randu,Rumah 17,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,536000000,42,79,2,1,1
+18,Michelia Randu,Rumah 18,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,585000000,42,80,2,1,1
+19,Michelia Randu,Rumah 19,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,621000000,42,88,2,1,1
+20,Michelia Randu,Rumah 20,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,645000000,42,93,2,1,1
+21,Pesona Verbena,Rumah 1,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+22,Pesona Verbena,Rumah 2,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+23,Pesona Verbena,Rumah 3,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+24,Pesona Verbena,Rumah 4,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+25,Pesona Verbena,Rumah 5,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+26,Pesona Verbena,Rumah 6,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+27,Pesona Verbena,Rumah 7,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+28,Pesona Verbena,Rumah 8,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+29,Pesona Verbena,Rumah 9,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+30,Pesona Verbena,Rumah 10,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+31,Pesona Verbena,Rumah 11,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+32,Pesona Verbena,Rumah 12,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+33,Pesona Verbena,Rumah 13,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+34,Pesona Verbena,Rumah 14,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+35,Pesona Verbena,Rumah 15,Babelan,Rumah Spesial Terlaris Tahun Ini,Indent ,455000000,36,60,2,1,1
+36,DANISWARA (BLOK A),Rumah 1,Babelan,Rumah paling laris di Babelan,Indent ,490000000,36,60,2,1,1
+37,DANISWARA (BLOK A),Rumah 2,Babelan,Rumah paling laris di Babelan,Indent ,503500000,36,63,2,1,1
+38,DANISWARA (BLOK A),Rumah 3,Babelan,Rumah paling laris di Babelan,Indent ,521500000,36,67,2,1,1
+39,DANISWARA (BLOK A),Rumah 4,Babelan,Rumah paling laris di Babelan,Indent ,550000000,42,70,2,1,1
+40,DANISWARA (BLOK A),Rumah 5,Babelan,Rumah paling laris di Babelan,Indent ,572500000,42,75,2,1,1
+41,DANISWARA (BLOK A),Rumah 6,Babelan,Rumah paling laris di Babelan,Indent ,586000000,42,78,2,1,1
+42,DANISWARA (BLOK A),Rumah 7,Babelan,Rumah paling laris di Babelan,Indent ,610000000,42,89,2,1,1
+43,"DANISWARA (BLOK B,C,D)",Rumah 1 ,Babelan,Rumah paling laris di Babelan,Indent ,460000000,36,60,2,1,1
+44,"DANISWARA (BLOK B,C,D)",Rumah 2,Babelan,Rumah paling laris di Babelan,Indent ,472000000,36,63,2,1,1
+45,"DANISWARA (BLOK B,C,D)",Rumah 3,Babelan,Rumah paling laris di Babelan,Indent ,484000000,36,66,2,1,1
+46,"DANISWARA (BLOK B,C,D)",Rumah 4,Babelan,Rumah paling laris di Babelan,Indent ,488000000,36,67,2,1,1
+47,"DANISWARA (BLOK B,C,D)",Rumah 5,Babelan,Rumah paling laris di Babelan,Indent ,510000000,45,70,2,1,1
+48,"DANISWARA (BLOK B,C,D)",Rumah 6,Babelan,Rumah paling laris di Babelan,Indent ,514000000,45,71,2,1,1
+49,"DANISWARA (BLOK B,C,D)",Rumah 7,Babelan,Rumah paling laris di Babelan,Indent ,518000000,45,72,2,1,1
+50,"DANISWARA (BLOK B,C,D)",Rumah 8,Babelan,Rumah paling laris di Babelan,Indent ,522000000,45,73,2,1,1
+51,"DANISWARA (BLOK B,C,D)",Rumah 9,Babelan,Rumah paling laris di Babelan,Indent ,530000000,45,75,2,1,1
+52,"DANISWARA (BLOK B,C,D)",Rumah 10,Babelan,Rumah paling laris di Babelan,Indent ,542000000,45,78,2,1,1
+53,"DANISWARA (BLOK B,C,D)",Rumah 11,Babelan,Rumah paling laris di Babelan,Indent ,555000000,45,80,2,1,1
+54,"DANISWARA (BLOK B,C,D)",Rumah 12,Babelan,Rumah paling laris di Babelan,Indent ,563000000,45,82,2,1,1
+55,BUMI BERLIAN SEJAHTERA 3,Rumah 1,Babelan,Rumah impian harga idaman,Indent ,375000000,38,60,2,1,1
+56,BUMI BERLIAN SEJAHTERA 3,Rumah 2,Babelan,Rumah impian harga idaman,Indent ,409000000,40,70,2,1,1
+57,BUMI BERLIAN SEJAHTERA 4,Rumah 1,Babelan,Rumah impian harga idaman,Indent ,393000000,36,66,2,1,1
+58,BUMI BERLIAN SEJAHTERA 4,Rumah 2,Babelan,Rumah impian harga idaman,Indent ,396000000,36,67,2,1,1
+59,BUMI BERLIAN SEJAHTERA 4,Rumah 3,Babelan,Rumah impian harga idaman,Indent ,399000000,36,68,2,1,1
+60,BUMI BERLIAN SEJAHTERA 4,Rumah 4,Babelan,Rumah impian harga idaman,Indent ,402000000,36,69,2,1,1
+61,BUMI BERLIAN SEJAHTERA 4,Rumah 5,Babelan,Rumah impian harga idaman,Indent ,425000000,40,74,2,1,1
+62,BUMI BERLIAN SEJAHTERA 4,Rumah 6,Babelan,Rumah impian harga idaman,Indent ,434000000,40,77,2,1,1
+63,BUMI BERLIAN SEJAHTERA 4,Rumah 7,Babelan,Rumah impian harga idaman,Indent ,440000000,40,79,2,1,1
+64,BUMI BERLIAN SEJAHTERA 4,Rumah 8,Babelan,Rumah impian harga idaman,Indent ,494000000,40,97,2,1,1
+65,BUMI BERLIAN SEJAHTERA 4,Rumah 9,Babelan,Rumah impian harga idaman,Indent ,500000000,40,99,2,1,1
+66,GRAND RIZQI EFFENDI RESIDENCE,Rumah 1,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,445000000,36,60,2,1,1
+67,GRAND RIZQI EFFENDI RESIDENCE,Rumah 2,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,453000000,36,62,2,1,1
+68,GRAND RIZQI EFFENDI RESIDENCE,Rumah 3,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,457000000,36,63,2,1,1
+69,GRAND RIZQI EFFENDI RESIDENCE,Rumah 4,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,461000000,36,64,2,1,1
+70,GRAND RIZQI EFFENDI RESIDENCE,Rumah 5,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,465000000,36,65,2,1,1
+71,GRAND RIZQI EFFENDI RESIDENCE,Rumah 6,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,469000000,36,66,2,1,1
+72,GRAND RIZQI EFFENDI RESIDENCE,Rumah 7,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,473000000,36,67,2,1,1
+73,GRAND RIZQI EFFENDI RESIDENCE,Rumah 8,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,477000000,36,68,2,1,1
+74,GRAND RIZQI EFFENDI RESIDENCE,Rumah 9,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,481000000,36,69,2,1,1
+75,GRAND RIZQI EFFENDI RESIDENCE,Rumah 10,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,485000000,40,70,2,1,1
+76,GRAND RIZQI EFFENDI RESIDENCE,Rumah 11,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,489000000,40,71,2,1,1
+77,GRAND RIZQI EFFENDI RESIDENCE,Rumah 12,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,493000000,40,72,2,1,1
+78,GRAND RIZQI EFFENDI RESIDENCE,Rumah 13,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,497000000,40,73,2,1,1
+79,GRAND RIZQI EFFENDI RESIDENCE,Rumah 14,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,501000000,40,74,2,1,1
+80,GRAND RIZQI EFFENDI RESIDENCE,Rumah 15,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,505000000,40,75,2,1,1
+81,GRAND RIZQI EFFENDI RESIDENCE,Rumah 16,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,589000000,40,96,2,1,1
+82,GRAND RIZQI EFFENDI RESIDENCE,Rumah 17,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,601000000,40,99,2,1,1
+83,PERMATA RIZQI ALAM RAYA,Rumah 1,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,395000000,36,60,2,1,1
+84,PERMATA RIZQI ALAM RAYA,Rumah 2,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,403000000,36,62,2,1,1
+85,PERMATA RIZQI ALAM RAYA,Rumah 3,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,407000000,36,63,2,1,1
+86,PERMATA RIZQI ALAM RAYA,Rumah 4,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,411000000,36,64,2,1,1
+87,PERMATA RIZQI ALAM RAYA,Rumah 5,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,415000000,36,65,2,1,1
+88,PERMATA RIZQI ALAM RAYA,Rumah 6,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,419000000,36,66,2,1,1
+89,PERMATA RIZQI ALAM RAYA,Rumah 7,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,423000000,36,67,2,1,1
+90,PERMATA RIZQI ALAM RAYA,Rumah 8,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,427000000,36,68,2,1,1
+91,PERMATA RIZQI ALAM RAYA,Rumah 9,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,435000000,40,70,2,1,1
+92,PERMATA RIZQI ALAM RAYA,Rumah 10,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,443000000,40,72,2,1,1
+93,PERMATA RIZQI ALAM RAYA,Rumah 11,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,451000000,40,74,2,1,1
+94,PERMATA RIZQI ALAM RAYA,Rumah 12,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,455000000,40,75,2,1,1
+95,PERMATA RIZQI ALAM RAYA,Rumah 13,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,459000000,40,76,2,1,1
+96,PERMATA RIZQI ALAM RAYA,Rumah 14,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,463000000,40,77,2,1,1
+97,PERMATA RIZQI ALAM RAYA,Rumah 15,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,467000000,40,78,2,1,1
+98,PERMATA RIZQI ALAM RAYA,Rumah 16,Tambun Utara,Rumah baru premium cuma 2 juta,Indent ,687000000,40,133,2,1,1
+99,BUMI PANDAWA SEJAHTERA 3,Rumah 1,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,478000000,38,61,2,1,1
+100,BUMI PANDAWA SEJAHTERA 3,Rumah 2,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,481000000,38,62,2,1,1
+101,BUMI PANDAWA SEJAHTERA 3,Rumah 3,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,484000000,38,63,2,1,1
+102,BUMI PANDAWA SEJAHTERA 3,Rumah 4,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,487000000,38,64,2,1,1
+103,BUMI PANDAWA SEJAHTERA 3,Rumah 5,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,490000000,38,65,2,1,1
+104,BUMI PANDAWA SEJAHTERA 3,Rumah 6,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,513000000,40,71,2,1,1
+105,BUMI PANDAWA SEJAHTERA 3,Rumah 7,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,516000000,40,72,2,1,1
+106,BUMI PANDAWA SEJAHTERA 3,Rumah 8,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,519000000,40,73,2,1,1
+107,BUMI PANDAWA SEJAHTERA 3,Rumah 9,Tarumajaya,Smart Home Living Murah di Tarumajaya (Bekasi),Indent ,522000000,40,74,2,1,1
+108,MALAIKA SANDRINA TANIA ,Rumah 1,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,445000000,36,60,2,1,1
+109,MALAIKA SANDRINA TANIA ,Rumah 2,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,449000000,36,61,2,1,1
+110,MALAIKA SANDRINA TANIA ,Rumah 3,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,457000000,36,63,2,1,1
+111,MALAIKA SANDRINA TANIA ,Rumah 4,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,465000000,36,65,2,1,1
+112,MALAIKA SANDRINA TANIA ,Rumah 5,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,477000000,36,68,2,1,1
+113,MALAIKA SANDRINA TANIA ,Rumah 6,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,493000000,42,70,2,1,1
+114,MALAIKA SANDRINA TANIA ,Rumah 7,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,497000000,42,71,2,1,1
+115,MALAIKA SANDRINA TANIA ,Rumah 8,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,501000000,42,72,2,1,1
+116,MALAIKA SANDRINA TANIA ,Rumah 9,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,505000000,42,73,2,1,1
+117,MALAIKA SANDRINA TANIA ,Rumah 10,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,509000000,42,74,2,1,1
+118,MALAIKA SANDRINA TANIA ,Rumah 11,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,513000000,42,75,2,1,1
+119,MALAIKA SANDRINA TANIA ,Rumah 12,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,517000000,42,76,2,1,1
+120,MALAIKA SANDRINA TANIA ,Rumah 13,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,525000000,42,78,2,1,1
+121,MALAIKA SANDRINA TANIA ,Rumah 14,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,533000000,42,80,2,1,1
+122,MALAIKA SANDRINA TANIA ,Rumah 15,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,545000000,42,83,2,1,1
+123,MALAIKA SANDRINA TANIA ,Rumah 16,Tambun Utara,Rumah Baru Bagus di Tambun Utara,Indent ,549000000,42,84,2,1,1
+124,PERMATA RIZQI SETU 2,Rumah 1,Setu,Rumah cuma 2 juta15 menit ke kawasan industri,Indent ,445000000,36,60,2,1,1
+125,PERMATA RIZQI SETU 2,Rumah 2,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,454000000,36,63,2,1,1
+126,PERMATA RIZQI SETU 2,Rumah 3,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,457000000,36,64,2,1,1
+127,PERMATA RIZQI SETU 2,Rumah 4,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,463000000,36,66,2,1,1
+128,PERMATA RIZQI SETU 2,Rumah 5,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,466000000,36,67,2,1,1
+129,PERMATA RIZQI SETU 2,Rumah 6,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,469000000,36,68,2,1,1
+130,PERMATA RIZQI SETU 2,Rumah 7,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,485000000,40,70,2,1,1
+131,PERMATA RIZQI SETU 2,Rumah 8,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,488000000,40,71,2,1,1
+132,PERMATA RIZQI SETU 2,Rumah 9,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,494000000,40,73,2,1,1
+133,PERMATA RIZQI SETU 2,Rumah 10,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,509000000,40,78,2,1,1
+134,PERMATA RIZQI SETU 3,Rumah 11,Setu,Rumah cuma 2 juta 15 menit ke kawasan industri,Indent ,512000000,40,79,2,1,1
+135,CAMARA BRISIA,Rumah 1,Babelan,Rumah exclusive cukup bawa berkas,Indent ,535000000,36,60,2,1,1
+136,CAMARA BRISIA,Rumah 2,Babelan,Rumah exclusive cukup bawa berkas,Indent ,540000000,36,61,2,1,1
+137,CAMARA BRISIA,Rumah 3,Babelan,Rumah exclusive cukup bawa berkas,Indent ,545000000,36,62,2,1,1
+138,CAMARA BRISIA,Rumah 4,Babelan,Rumah exclusive cukup bawa berkas,Indent ,550000000,36,63,2,1,1
+139,CAMARA BRISIA,Rumah 5,Babelan,Rumah exclusive cukup bawa berkas,Indent ,555000000,36,64,2,1,1
+140,CAMARA BRISIA,Rumah 6,Babelan,Rumah exclusive cukup bawa berkas,Indent ,560000000,36,65,2,1,1
+141,CAMARA BRISIA,Rumah 7,Babelan,Rumah exclusive cukup bawa berkas,Indent ,585000000,45,70,2,1,1
+142,CAMARA BRISIA,Rumah 8,Babelan,Rumah exclusive cukup bawa berkas,Indent ,590000000,45,71,2,1,1
+143,CAMARA BRISIA,Rumah 9,Babelan,Rumah exclusive cukup bawa berkas,Indent ,600000000,45,73,2,1,1
+144,CAMARA BRISIA,Rumah 10,Babelan,Rumah exclusive cukup bawa berkas,Indent ,605000000,45,74,2,1,1
+145,CAMARA BRISIA,Rumah 11,Babelan,Rumah exclusive cukup bawa berkas,Indent ,610000000,45,75,2,1,1
+146,CAMARA BRISIA,Rumah 12,Babelan,Rumah exclusive cukup bawa berkas,Indent ,645000000,45,82,2,1,1
+147,GRIYA AMARANTA,Rumah 1,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,490000000,36,60,2,1,1
+148,GRIYA AMARANTA,Rumah 2,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,520000000,36,66,2,1,1
+149,GRIYA AMARANTA,Rumah 3,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,530000000,36,68,2,1,1
+150,GRIYA AMARANTA,Rumah 4,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,550000000,42,70,2,1,1
+151,GRIYA AMARANTA,Rumah 5,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,555000000,42,71,2,1,1
+152,GRIYA AMARANTA,Rumah 6,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,560000000,42,72,2,1,1
+153,GRIYA AMARANTA,Rumah 7,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,565000000,42,73,2,1,1
+154,GRIYA AMARANTA,Rumah 8,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,570000000,42,74,2,1,1
+155,GRIYA AMARANTA,Rumah 9,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,575000000,42,75,2,1,1
+156,GRIYA AMARANTA,Rumah 10,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,580000000,42,76,2,1,1
+157,GRIYA AMARANTA,Rumah 11,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,590000000,42,78,2,1,1
+158,GRIYA AMARANTA,Rumah 12,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,595000000,42,79,2,1,1
+159,GRIYA AMARANTA,Rumah 13,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,610000000,42,80,2,1,1
+160,GRIYA AMARANTA,Rumah 14,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,615000000,42,81,2,1,1
+161,GRIYA AMARANTA,Rumah 15,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,620000000,42,82,2,1,1
+162,GRIYA AMARANTA,Rumah 16,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,625000000,42,83,2,1,1
+163,GRIYA AMARANTA,Rumah 17,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,630000000,42,84,2,1,1
+164,GRIYA AMARANTA,Rumah 18,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,635000000,42,85,2,1,1
+165,GRIYA AMARANTA,Rumah 19,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,640000000,42,86,2,1,1
+166,GRIYA AMARANTA,Rumah 20,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,745000000,42,107,2,1,1
+167,GRIYA AMARANTA,Rumah 21,Babelan,Rumah Baru Paling Laris di Babelan,Indent ,790000000,42,116,2,1,1
+168,BLUEBELLS RESIDENCE,Rumah 1,Babelan,Rumah Limited Edition,Indent ,360000000,36,60,2,1,1
+169,BLUEBELLS RESIDENCE,Rumah 2,Babelan,Rumah Limited Edition,Indent ,360000000,36,60,2,1,1
+170,AULIA GREEN GARDEN,Rumah 1,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,665000000,49,84,2,1,1
+171,AULIA GREEN GARDEN,Rumah 2,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,628000000,49,72,2,1,1
+172,AULIA GREEN GARDEN,Rumah 3,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,628000000,49,72,2,1,1
+173,AULIA GREEN GARDEN,Rumah 4,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,628000000,49,72,2,1,1
+174,AULIA GREEN GARDEN,Rumah 5,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,628000000,49,72,2,1,1
+175,AULIA GREEN GARDEN,Rumah 6,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,628000000,49,72,2,1,1
+176,AULIA GREEN GARDEN,Rumah 7,Mustika Jaya,Rumah cluster exclusive di Kota Bekasi,Indent ,665000000,49,84,2,1,1
+177,DUA SEMBILAN RESIDENCE,Rumah 1,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,400000000,36,60,2,1,1
+178,DUA SEMBILAN RESIDENCE,Rumah 2,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,460000000,42,70,2,1,1
+179,DUA SEMBILAN RESIDENCE,Rumah 3,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,500000000,45,75,2,1,1
+180,DUA SEMBILAN RESIDENCE,Rumah 4,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,542000000,42,98,2,1,1
+181,DUA SEMBILAN RESIDENCE,Rumah 5,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,543000000,46,94,2,1,1
+182,DUA SEMBILAN RESIDENCE,Rumah 6,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,586000000,48,103,2,1,1
+183,DUA SEMBILAN RESIDENCE,Rumah 7,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,463000000,40,78,2,1,1
+184,DUA SEMBILAN RESIDENCE,Rumah 8,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,438000000,40,71,2,1,1
+185,DUA SEMBILAN RESIDENCE,Rumah 9,Tambun Utara,Rumah Baru Unik & Spek Bangungan Berkelas,Indent ,564000000,40,107,2,1,1
+186,CLUSTER AERI,Rumah 1,Mustika Jaya,Rumah Cluster 2 Lt. exclusive di Kota Bekasi,Indent ,785000000,66,81,3,2,1
+187,CLUSTER AERI,Rumah 2,Mustika Jaya,Rumah Cluster 2 Lt. exclusive di Kota Bekasi,Indent ,770000000,66,75,3,2,1
+188,GRIYA SETU PRATAMA,Rumah 1,Setu,Rumah Mezzanine 1 1/2 Lt.,Indent ,480630000,34,66,2,1,1
+189,MUTIARA GADING CITY,37/60 Fresia *,Babelan,Rumah exclusive paling laris,Indent ,486000000,37,60,3,1,1
+190,MUTIARA GADING CITY,37/60 Fresia UTR/SLTN,Babelan,Rumah exclusive paling laris,Indent ,491000000,37,60,3,1,1
+191,MUTIARA GADING CITY,37/60 Fresia TMR,Babelan,Rumah exclusive paling laris,Indent ,501000000,37,60,3,1,1
+192,MUTIARA GADING CITY,42/72 Pianta *,Babelan,Rumah exclusive paling laris,Indent ,554000000,42,72,3,1,1
+193,MUTIARA GADING CITY,42/72 Pianta UTR/SLTN,Babelan,Rumah exclusive paling laris,Indent ,559000000,42,72,3,1,1
+194,MUTIARA GADING CITY,42/72 Pianta TMR,Babelan,Rumah exclusive paling laris,Indent ,569000000,42,72,3,1,1
+195,MUTIARA GADING CITY,42/90 Pianta *,Babelan,Rumah exclusive paling laris,Indent ,668000000,42,90,3,1,1
+196,MUTIARA GADING CITY,42/90 Pianta UTR/SLTN,Babelan,Rumah exclusive paling laris,Indent ,694000000,42,90,3,1,1
+197,MUTIARA GADING CITY,52/60 Clover*,Babelan,Rumah exclusive paling laris,Indent ,786000000,52,60,2,1,1
+198,MUTIARA GADING CITY,52/60 Clover UTR/SLTN,Babelan,Rumah exclusive paling laris,Indent ,794000000,52,60,2,1,1
+199,MUTIARA GADING CITY,62/84 Bluebell BRT,Babelan,Rumah exclusive paling laris,Indent ,975000000,65,84,3,1,1
+200,MUTIARA GADING CITY,62/84 Bluebell TMR + TMN,Babelan,Rumah exclusive paling laris,Indent ,1031000000,65,84,3,1,1
+201,KOTA BABELAN PERMAI,Rumah 1,Babelan,Rumah baru bebas BI checking,Indent ,390000000,36,60,2,1,1
+202,KOTA BABELAN PERMAI,Rumah 2,Babelan,Rumah baru bebas BI checking,Indent ,365000000,42,72,2,1,1
+203,PESONA VISCANY,Rumah 1,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,430000000,36,60,2,1,1
+204,PESONA VISCANY,Rumah 2,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,433000000,36,61,2,1,1
+205,PESONA VISCANY,Rumah 3,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,436000000,36,62,2,1,1
+206,PESONA VISCANY,Rumah 4,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,439000000,36,63,2,1,1
+207,PESONA VISCANY,Rumah 5,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,442000000,36,64,2,1,1
+208,PESONA VISCANY,Rumah 6,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,445000000,36,65,2,1,1
+209,PESONA VISCANY,Rumah 7,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,448000000,36,66,2,1,1
+210,PESONA VISCANY,Rumah 8,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,451000000,36,67,2,1,1
+211,PESONA VISCANY,Rumah 9,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,454000000,36,68,2,1,1
+212,PESONA VISCANY,Rumah 10,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,457000000,36,69,2,1,1
+213,PESONA VISCANY,Rumah 11,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,480000000,45,70,2,1,1
+214,PESONA VISCANY,Rumah 12,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,483000000,45,71,2,1,1
+215,PESONA VISCANY,Rumah 13,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,486000000,45,72,2,1,1
+216,PESONA VISCANY,Rumah 14,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,492000000,45,74,2,1,1
+217,PESONA VISCANY,Rumah 15,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,495000000,45,75,2,1,1
+218,PESONA VISCANY,Rumah 16,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,504000000,45,78,2,1,1
+219,PESONA VISCANY,Rumah 17,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,507000000,45,79,2,1,1
+220,PESONA VISCANY,Rumah 18,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,510000000,45,80,2,1,1
+221,PESONA VISCANY,Rumah 19,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,513000000,45,81,2,1,1
+222,PESONA VISCANY,Rumah 20,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,522000000,45,84,2,1,1
+223,PESONA VISCANY,Rumah 21,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,528000000,45,86,2,1,1
+224,PESONA VISCANY,Rumah 22,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,537000000,45,89,2,1,1
+225,PESONA VISCANY,Rumah 23,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,549000000,45,93,2,1,1
+226,PESONA VISCANY,Rumah 24,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,558000000,45,96,2,1,1
+227,PESONA VISCANY,Rumah 25,Babelan,Rumah sehat dengan sirkulasi dan pencayahaan optimal,Indent ,567000000,45,99,2,1,1
+228,PESONA BELLA CASA,Rumah 1,Babelan,Rumah baru terlaris di Babelan,Indent ,590000000,36,60,2,1,1
+229,PESONA BELLA CASA,Rumah 2,Babelan,Rumah baru terlaris di Babelan,Indent ,615000000,36,65,2,1,1
+230,PESONA BELLA CASA,Rumah 3,Babelan,Rumah baru terlaris di Babelan,Indent ,620000000,36,66,2,1,1
+231,PESONA BELLA CASA,Rumah 4,Babelan,Rumah baru terlaris di Babelan,Indent ,625000000,36,67,2,1,1
+232,PESONA BELLA CASA,Rumah 5,Babelan,Rumah baru terlaris di Babelan,Indent ,630000000,36,68,2,1,1
+233,PESONA BELLA CASA,Rumah 6,Babelan,Rumah baru terlaris di Babelan,Indent ,635000000,36,69,2,1,1
+234,PESONA BELLA CASA,Rumah 7,Babelan,Rumah baru terlaris di Babelan,Indent ,640000000,36,70,2,1,1
+235,PESONA BELLA CASA,Rumah 8,Babelan,Rumah baru terlaris di Babelan,Indent ,645000000,36,71,2,1,1
+236,PESONA BELLA CASA,Rumah 9,Babelan,Rumah baru terlaris di Babelan,Indent ,650000000,36,72,2,1,1
+237,PESONA BELLA CASA,Rumah 10,Babelan,Rumah baru terlaris di Babelan,Indent ,655000000,36,73,2,1,1
+238,PESONA BELLA CASA,Rumah 11,Babelan,Rumah baru terlaris di Babelan,Indent ,660000000,36,74,2,1,1
+239,PESONA BELLA CASA,Rumah 12,Babelan,Rumah baru terlaris di Babelan,Indent ,665000000,36,75,2,1,1
+240,PESONA BELLA CASA,Rumah 13,Babelan,Rumah baru terlaris di Babelan,Indent ,675000000,36,77,2,1,1
+241,PESONA BELLA CASA,Rumah 14,Babelan,Rumah baru terlaris di Babelan,Indent ,680000000,36,78,2,1,1
+242,PESONA BELLA CASA,Rumah 15,Babelan,Rumah baru terlaris di Babelan,Indent ,685000000,36,79,2,1,1
+243,PESONA BELLA CASA,Rumah 16,Babelan,Rumah baru terlaris di Babelan,Indent ,690000000,36,80,2,1,1
+244,PESONA BELLA CASA,Rumah 17,Babelan,Rumah baru terlaris di Babelan,Indent ,695000000,36,81,2,1,1
+245,PESONA BELLA CASA,Rumah 18,Babelan,Rumah baru terlaris di Babelan,Indent ,740000000,36,90,2,1,1
+246,PESONA BELLA CASA,Rumah 19,Babelan,Rumah baru terlaris di Babelan,Indent ,770000000,42,90,2,1,1
+247,PESONA BELLA CASA,Rumah 20,Babelan,Rumah baru terlaris di Babelan,Indent ,750000000,36,92,2,1,1
+248,PESONA BELLA CASA,Rumah 21,Babelan,Rumah baru terlaris di Babelan,Indent ,765000000,36,95,2,1,1
+249,PESONA BELLA CASA,Rumah 22,Babelan,Rumah baru terlaris di Babelan,Indent ,770000000,36,96,2,1,1
+250,PESONA BELLA CASA,Rumah 23,Babelan,Rumah baru terlaris di Babelan,Indent ,780000000,36,98,2,1,1
+251,PESONA BELLA CASA,Rumah 24,Babelan,Rumah baru terlaris di Babelan,Indent ,825000000,36,107,2,1,1
+252,PESONA BELLA CASA,Rumah 25,Babelan,Rumah baru terlaris di Babelan,Indent ,860000000,42,108,2,1,1
+253,PESONA BELLA CASA,Rumah 26,Babelan,Rumah baru terlaris di Babelan,Indent ,875000000,42,111,2,1,1
+254,PESONA BELLA CASA,Rumah 27,Babelan,Rumah baru terlaris di Babelan,Indent ,930000000,42,122,2,1,1
+255,PESONA BELLA CASA,Rumah 28,Babelan,Rumah baru terlaris di Babelan,Indent ,980000000,42,132,2,1,1
+256,PESONA AMARYLLIS,Rumah 1,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,440000000,36,60,2,1,1
+257,PESONA AMARYLLIS,Rumah 2,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,443000000,36,61,2,1,1
+258,PESONA AMARYLLIS,Rumah 3,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,446000000,36,62,2,1,1
+259,PESONA AMARYLLIS,Rumah 4,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,449000000,36,63,2,1,1
+260,PESONA AMARYLLIS,Rumah 5,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,452000000,36,64,2,1,1
+261,PESONA AMARYLLIS,Rumah 6,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,455000000,36,65,2,1,1
+262,PESONA AMARYLLIS,Rumah 7,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,458000000,36,66,2,1,1
+263,PESONA AMARYLLIS,Rumah 8,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,461000000,36,67,2,1,1
+264,PESONA AMARYLLIS,Rumah 9,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,464000000,36,68,2,1,1
+265,PESONA AMARYLLIS,Rumah 10,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,467000000,36,69,2,1,1
+266,PESONA AMARYLLIS,Rumah 11,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,490000000,45,70,2,1,1
+267,PESONA AMARYLLIS,Rumah 12,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,493000000,45,71,2,1,1
+268,PESONA AMARYLLIS,Rumah 13,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,496000000,45,72,2,1,1
+269,PESONA AMARYLLIS,Rumah 14,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,499000000,45,73,2,1,1
+270,PESONA AMARYLLIS,Rumah 15,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,505000000,45,75,2,1,1
+271,PESONA AMARYLLIS,Rumah 16,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,514000000,45,78,2,1,1
+272,PESONA AMARYLLIS,Rumah 17,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,517000000,45,79,2,1,1
+273,PESONA AMARYLLIS,Rumah 18,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,520000000,45,80,2,1,1
+274,PESONA AMARYLLIS,Rumah 19,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,526000000,45,82,2,1,1
+275,PESONA AMARYLLIS,Rumah 20,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,529000000,45,83,2,1,1
+276,PESONA AMARYLLIS,Rumah 21,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,532000000,45,84,2,1,1
+277,PESONA AMARYLLIS,Rumah 22,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,535000000,45,85,2,1,1
+278,PESONA AMARYLLIS,Rumah 23,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,538000000,45,86,2,1,1
+279,PESONA AMARYLLIS,Rumah 24,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,541000000,45,87,2,1,1
+280,PESONA AMARYLLIS,Rumah 25,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,544000000,45,88,2,1,1
+281,PESONA AMARYLLIS,Rumah 26,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,547000000,45,89,2,1,1
+282,PESONA AMARYLLIS,Rumah 27,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,550000000,45,90,2,1,1
+283,PESONA AMARYLLIS,Rumah 28,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,559000000,45,93,2,1,1
+284,PESONA AMARYLLIS,Rumah 29,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,565000000,45,95,2,1,1
+285,PESONA AMARYLLIS,Rumah 30,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,568000000,45,96,2,1,1
+286,PESONA AMARYLLIS,Rumah 31,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,571000000,45,97,2,1,1
+287,PESONA AMARYLLIS,Rumah 32,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,577000000,45,99,2,1,1
+288,PESONA AMARYLLIS,Rumah 33,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,583000000,45,101,2,1,1
+289,PESONA AMARYLLIS,Rumah 34,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,592000000,45,104,2,1,1
+290,PESONA AMARYLLIS,Rumah 35,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,595000000,45,105,2,1,1
+291,PESONA AMARYLLIS,Rumah 36,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,610000000,45,110,2,1,1
+292,PESONA AMARYLLIS,Rumah 37,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,619000000,45,113,2,1,1
+293,PESONA AMARYLLIS,Rumah 38,Babelan,Rumah baru siap menjadi yang terlaris di Setu,Indent ,658000000,45,126,2,1,1
+294,ALAM SAMUDRA INDAH 2,Rumah 1,Babelan,Rumah konsep monumen,Indent ,385000000,36,60,2,1,1
+295,ALAM SAMUDRA INDAH 2,Rumah 2,Babelan,Rumah konsep monumen,Indent ,391000000,36,62,2,1,1
+296,ALAM SAMUDRA INDAH 2,Rumah 3,Babelan,Rumah konsep monumen,Indent ,394000000,36,63,2,1,1
+297,ALAM SAMUDRA INDAH 2,Rumah 4,Babelan,Rumah konsep monumen,Indent ,400000000,36,65,2,1,1
+298,ALAM SAMUDRA INDAH 2,Rumah 5,Babelan,Rumah konsep monumen,Indent ,403000000,36,66,2,1,1
+299,ALAM SAMUDRA INDAH 2,Rumah 6,Babelan,Rumah konsep monumen,Indent ,415000000,40,70,2,1,1
+300,ALAM SAMUDRA INDAH 2,Rumah 7,Babelan,Rumah konsep monumen,Indent ,430000000,40,75,2,1,1
+301,ALAM SAMUDRA INDAH 2,Rumah 8,Babelan,Rumah konsep monumen,Indent ,472000000,40,89,2,1,1
+302,ALAM SAMUDRA INDAH 3,Rumah 1,Babelan,Rumah konsep monumen,Indent ,385000000,36,60,2,1,1
+303,ALAM SAMUDRA INDAH 3,Rumah 2,Babelan,Rumah konsep monumen,Indent ,391000000,36,62,2,1,1
+304,ALAM SAMUDRA INDAH 3,Rumah 3,Babelan,Rumah konsep monumen,Indent ,394000000,36,63,2,1,1
+305,ALAM SAMUDRA INDAH 3,Rumah 4,Babelan,Rumah konsep monumen,Indent ,400000000,36,65,2,1,1
+306,ALAM SAMUDRA INDAH 3,Rumah 5,Babelan,Rumah konsep monumen,Indent ,403000000,36,66,2,1,1
+307,ALAM SAMUDRA INDAH 3,Rumah 6,Babelan,Rumah konsep monumen,Indent ,415000000,40,70,2,1,1
+308,ALAM SAMUDRA INDAH 3,Rumah 7,Babelan,Rumah konsep monumen,Indent ,430000000,40,75,2,1,1
+309,ALAM SAMUDRA INDAH 3,Rumah 8,Babelan,Rumah konsep monumen,Indent ,472000000,40,89,2,1,1
+310,SPRINGFIELD RESIDENCE,Rumah 1,Babelan,Hunian konsep millenial exclusive,Indent ,450000000,36,60,2,1,1
+311,SPRINGFIELD RESIDENCE,Rumah 2,Babelan,Hunian konsep millenial exclusive,Indent ,495000000,45,60,2,1,1
+312,BUMI PANDAWA SEJAHTERA 1,Rumah 1,Setu,Smart home living murah di Setu,Indent ,430000000,36,60,2,1,1
+313,BUMI PANDAWA SEJAHTERA 1,Rumah 2,Setu,Smart home living murah di Setu,Indent ,439000000,36,63,2,1,1
+314,BUMI PANDAWA SEJAHTERA 1,Rumah 3,Setu,Smart home living murah di Setu,Indent ,445000000,36,65,2,1,1
+315,BUMI PANDAWA SEJAHTERA 1,Rumah 4,Setu,Smart home living murah di Setu,Indent ,473000000,40,71,2,1,1
+316,BUMI PANDAWA SEJAHTERA 2,Rumah 1,Babelan,Smart home living murah di Babelan,Indent ,390000000,36,60,2,1,1
+317,BUMI PANDAWA SEJAHTERA 2,Rumah 2,Babelan,Smart home living murah di Babelan,Indent ,405000000,36,65,2,1,1
+318,BUMI PANDAWA SEJAHTERA 2,Rumah 3,Babelan,Smart home living murah di Babelan,Indent ,434000000,40,72,2,1,1
+319,BUMI PANDAWA SEJAHTERA 2,Rumah 4,Babelan,Smart home living murah di Babelan,Indent ,443000000,40,75,2,1,1
+320,BUMI PANDAWA SEJAHTERA 2,Rumah 5,Babelan,Smart home living murah di Babelan,Indent ,449000000,40,77,2,1,1
+321,BUMI SEJAHTERA,Rumah 1,Tarumajaya,Rumah terlaris di Tarumajaya,Indent ,445000000,36,60,2,1,1
+322,BUMI SEJAHTERA,Rumah 2,Tarumajaya,Rumah terlaris di Tarumajaya,Indent ,449000000,36,61,2,1,1
+323,BUMI SEJAHTERA,Rumah 3,Tarumajaya,Rumah terlaris di Tarumajaya,Indent ,477000000,36,68,2,1,1
+324,BUMI SEJAHTERA,Rumah 4,Tarumajaya,Rumah terlaris di Tarumajaya,Indent ,485000000,45,70,2,1,1
+325,Bumi Sejahtera Babelan ,Rumah 1,Babelan,Rumah 2 Lt. Murah di Babelan (Bekasi),Indent ,740000000,72,60,3,2,1
+326,Bumi Sejahtera Babelan ,Rumah 2,Babelan,Rumah 2 Lt. Murah di Babelan (Bekasi),Indent ,760000000,72,62,3,2,1
+327,Bumi Sejahtera Babelan ,Rumah 3,Babelan,Rumah 2 Lt. Murah di Babelan (Bekasi),Indent ,780000000,72,64,3,2,1
+328,Bumi Sejahtera Babelan ,Rumah 4,Babelan,Rumah 2 Lt. Murah di Babelan (Bekasi),Indent ,880000000,72,88,3,2,1
+329,Mutiara Kedungjaya,Rumah 1,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,430000000,36,60,2,1,1
+330,Mutiara Kedungjaya,Rumah 2,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,438000000,36,62,2,1,1
+331,Mutiara Kedungjaya,Rumah 3,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,470000000,40,70,2,1,1
+332,Mutiara Kedungjaya,Rumah 4,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,482000000,40,73,2,1,1
+333,Mutiara Kedungjaya,Rumah 5,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,502000000,40,78,2,1,1
+334,Mutiara Kedungjaya,Rumah 6,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,506000000,40,79,2,1,1
+335,Mutiara Kedungjaya,Rumah 7,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,510000000,40,78,2,1,1
+336,Bumi Mutiara Sejahtera 3 ,Rumah 1,Tambun Utara,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,420000000,36,60,2,1,1
+337,Bumi Mutiara Sejahtera 3 ,Rumah 2,Tambun Utara,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,428000000,36,62,2,1,1
+338,Bumi Mutiara Sejahtera 3 ,Rumah 3,Tambun Utara,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,465000000,40,70,2,1,1
+339,Bumi Mutiara Sejahtera 3 ,Rumah 4,Tambun Utara,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,469000000,40,71,2,1,1
+340,Bumi Mutiara Sejahtera 3 ,Rumah 5,Tambun Utara,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,501000000,40,79,2,1,1
+341,Bumi Mutiara Sejahtera 3 ,Rumah 6,Tambun Utara,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,537000000,40,88,2,1,1
+342,Serenity Garden ,Rumah 1,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,454250000,36,60,2,1,1
+343,Serenity Garden ,Rumah 2 ,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,458850000,36,61,2,1,1
+344,Serenity Garden ,Rumah 3,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,463450000,36,62,2,1,1
+345,Serenity Garden ,Rumah 4,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,477250000,36,65,2,1,1
+346,Serenity Garden ,Rumah 5,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,486450000,40,67,2,1,1
+347,Serenity Garden ,Rumah 6,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,500250000,40,70,2,1,1
+348,Serenity Garden ,Rumah 7,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,523250000,40,75,2,1,1
+349,Serenity Garden ,Rumah 8,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,537050000,40,78,2,1,1
+350,Serenity Garden ,Rumah 9,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,555450000,40,82,2,1,1
+351,Serenity Garden ,Rumah 10,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,569250000,40,85,2,1,1
+352,Serenity Garden ,Rumah 11,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,583050000,40,88,2,1,1
+353,Serenity Garden ,Rumah 12,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,592850000,40,90,2,1,1
+354,Serenity Garden ,Rumah 13,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,596850000,40,91,2,1,1
+355,Serenity Garden ,Rumah 14,Babelan,Rumah Baru Idaman Keluarga di Lingkungan Baru ,Indent ,617550000,40,97,2,1,1
+356,TRIAS ESTESIA,Rumah 1,Setu,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,445000000,36,60,2,1,1
+357,TRIAS ESTESIA,Rumah 2,Setu,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,459000000,36,64,2,1,1
+358,TRIAS ESTESIA,Rumah 3,Setu,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,485000000,40,70,2,1,1
+359,TRIAS ESTESIA,Rumah 4,Setu,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,492000000,40,72,2,1,1
+360,Grand Trias Village ,Rumah 1,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,455000000,36,60,2,1,1
+361,Grand Trias Village ,Rumah 2,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,475000000,36,65,2,1,1
+362,Grand Trias Village ,Rumah 3,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,483000000,36,67,2,1,1
+363,Grand Trias Village ,Rumah 4,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,487000000,36,68,2,1,1
+364,Grand Trias Village ,Rumah 5,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,495000000,36,70,2,1,1
+365,Grand Trias Village ,Rumah 6,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,499000000,36,71,2,1,1
+366,Grand Trias Village ,Rumah 7,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,507000000,36,73,2,1,1
+367,Grand Trias Village ,Rumah 8,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,615000000,36,100,2,1,1
+368,Grand Trias Village ,Rumah 9,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,639000000,36,106,2,1,1
+369,Grand Trias Village ,Rumah 10,Tambun Selatan,Rumah Baru Bagus Cepet laris pastinya karena cuma 2 juta aja Yuk Booking sebelum kehabisan,Indent ,647000000,36,108,2,1,1
+370,Terra Saluna,Rumah 1,Tarumajaya,Rumah Premium di Lingkungan Strategis ,Indent ,460000000,38,60,2,1,1
+371,Terra Saluna,Rumah 2,Tarumajaya,Rumah Premium di Lingkungan Strategis ,Indent ,469000000,38,63,2,1,1
+372,Terra Saluna,Rumah 3,Tarumajaya,Rumah Premium di Lingkungan Strategis ,Indent ,472000000,38,64,2,1,1
+373,Terra Saluna,Rumah 4,Tarumajaya,Rumah Premium di Lingkungan Strategis ,Indent ,490000000,38,65,2,1,1
+374,Terra Amanta,Rumah 1,Tambun Utara,Rumah Premium di Lingkungan Strategis ,Indent ,420000000,38,60,2,1,1
+375,Terra Amanta,Rumah 2,Tambun Utara,Rumah Premium di Lingkungan Strategis ,Indent ,435000000,38,65,2,1,1
+376,Terra Amanta,Rumah 3,Tambun Utara,Rumah Premium di Lingkungan Strategis ,Indent ,474000000,38,78,2,1,1
+377,Terra Amanta,Rumah 4,Tambun Utara,Rumah Premium di Lingkungan Strategis ,Indent ,490000000,40,80,2,1,1
+378,Cahaya Nusantara 1,Rumah 1,Babelan,Rumah Minimalis Elegant Termurah di Babelan (Bekasi),Indent ,450000000,36,60,2,1,1
+379,Cahaya Nusantara 1,Rumah 2,Babelan,Rumah Minimalis Elegant Termurah di Babelan (Bekasi),Indent ,462000000,36,64,2,1,1
+380,Cahaya Nusantara 1,Rumah 3,Babelan,Rumah Minimalis Elegant Termurah di Babelan (Bekasi),Indent ,465000000,36,65,2,1,1
+381,Cahaya Nusantara 2,Rumah 1,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,425000000,36,60,2,1,1
+382,Cahaya Nusantara 2,Rumah 2,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,428000000,36,61,2,1,1
+383,Cahaya Nusantara 2,Rumah 3,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,443000000,36,66,2,1,1
+384,Cahaya Nusantara 2,Rumah 4,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,455000000,40,70,2,1,1
+385,Cahaya Nusantara 2,Rumah 5,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,461000000,40,72,2,1,1
+386,Cahaya Nusantara 2,Rumah 6,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,470000000,40,75,2,1,1
+387,Cahaya Nusantara 2,Rumah 7,Tambun Utara,Rumah Minimalis Elegant Termurah di Tambun Utara (Bekasi),Indent ,488000000,40,81,2,1,1
+388,Cahaya Nusantara 3 ,Rumah 1,Babelan,Rumah Minimalis Elegant Termurah di Babelan (Bekasi),Indent ,425000000,36,60,2,1,1
+389,Pesona Nusantara ,Rumah 1,Babelan,Rumah Minimalis Elegant 2 Lt. Murah Cuma 2 Jt di Babelan (Bekasi),Indent ,830000000,72,76,2,1,1
+390,Pesona Nusantara ,Rumah 2,Babelan,Rumah Minimalis Elegant 2 Lt. Murah Cuma 2 Jt di Babelan (Bekasi),Indent ,810000000,72,60,2,1,1
+391,Puri Tamara,Rumah 1,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,450000000,36,60,2,1,1
+392,Puri Tamara,Rumah 2,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,516000000,42,72,2,1,1
+393,Puri Tamara,Rumah 3,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,516000000,42,75,2,1,1
+394,Puri Tamara,Rumah 4,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,516000000,42,80,2,1,1
+395,Puri Tamara,Rumah 5,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,516000000,42,85,2,1,1
+396,Puri Tamara,Rumah 6,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,516000000,42,90,2,1,1
+397,Puri Tamara,Rumah 7,Babelan,Perumahan Modern Konsep Kekinian ,Indent ,516000000,42,95,2,1,1
+398,Krismaya Garden,Rumah 1,Tambun Utara,Perumahan Modern Konsep Kekinian ,Indent ,490000000,36,60,2,1,1
+399,Krismaya Garden,Rumah 2,Tambun Utara,Perumahan Modern Konsep Kekinian ,Indent ,517500000,36,65,2,1,1
+400,Krismaya Garden,Rumah 3,Tambun Utara,Perumahan Modern Konsep Kekinian ,Indent ,560000000,42,70,2,1,1
+401,Krismaya Garden,Rumah 4,Tambun Utara,Perumahan Modern Konsep Kekinian ,Indent ,576500000,42,73,2,1,1
+402,Krismaya Garden,Rumah 5,Tambun Utara,Perumahan Modern Konsep Kekinian ,Indent ,593000000,42,76,2,1,1
+403,Krismaya Garden,Rumah 6,Tambun Utara,Perumahan Modern Konsep Kekinian ,Indent ,615000000,42,80,2,1,1
+404,Krismaya Premier,Rumah 1,Mustika Jaya ,Perumahan Modern Konsep Kekinian ,Indent ,530000000,36,60,2,1,1
+405,Krismaya Premier,Rumah 2,Mustika Jaya ,Perumahan Modern Konsep Kekinian ,Indent ,557000000,36,65,2,1,1
+406,Krismaya Premier,Rumah 3,Mustika Jaya ,Perumahan Modern Konsep Kekinian ,Indent ,570000000,42,70,2,1,1
+407,Krismaya Premier,Rumah 4,Mustika Jaya ,Perumahan Modern Konsep Kekinian ,Indent ,581000000,42,73,2,1,1
+408,Krismaya Premier,Rumah 5,Mustika Jaya ,Perumahan Modern Konsep Kekinian ,Indent ,614000000,42,76,2,1,1
+409,Krismaya Premier,Rumah 6,Mustika Jaya ,Perumahan Modern Konsep Kekinian ,Indent ,636000000,42,80,2,1,1
+410,Permata Adiwarna ,Rumah 1,Mustika Jaya ,Perumahan Modern Konsep Kekinian Banyak Bonusnya ,Indent ,515000000,36,60,2,1,1
+411,Permata Adiwarna ,Rumah 2,Mustika Jaya ,Perumahan Modern Konsep Kekinian Banyak Bonusnya ,Indent ,555000000,40,70,2,1,1
+412,Mansion Hill Tanah Tinggi ,Rumah 1,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,467000000,36,60,2,1,1
+413,Mansion Hill Tanah Tinggi ,Rumah 2,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,473000000,36,61,2,1,1
+414,Mansion Hill Tanah Tinggi ,Rumah 3,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,478000000,36,62,2,1,1
+415,Mansion Hill Tanah Tinggi ,Rumah 4,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,489000000,36,64,2,1,1
+416,Mansion Hill Tanah Tinggi ,Rumah 5,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,500000000,36,66,2,1,1
+417,Mansion Hill Tanah Tinggi ,Rumah 6,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,512000000,36,68,2,1,1
+418,Mansion Hill Tanah Tinggi ,Rumah 7,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,568000000,45,70,2,1,1
+419,Mansion Hill Tanah Tinggi ,Rumah 8,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,574000000,45,71,2,1,1
+420,Mansion Hill Tanah Tinggi ,Rumah 9,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,585000000,45,73,2,1,1
+421,Mansion Hill Tanah Tinggi ,Rumah 10,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,596000000,45,75,2,1,1
+422,Mansion Hill Tanah Tinggi ,Rumah 11,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,607000000,45,77,2,1,1
+423,Mansion Hill Tanah Tinggi ,Rumah 12,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,624000000,45,80,2,1,1
+424,Mansion Hill Tanah Tinggi ,Rumah 13,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,629000000,45,81,2,1,1
+425,Mansion Hill Tanah Tinggi ,Rumah 14,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,635000000,45,82,2,1,1
+426,Mansion Hill Tanah Tinggi ,Rumah 15,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,640000000,45,83,2,1,1
+427,Mansion Hill Tanah Tinggi ,Rumah 16,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,646000000,45,84,2,1,1
+428,Mansion Hill Tanah Tinggi ,Rumah 17,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,657000000,45,86,2,1,1
+429,Mansion Hill Tanah Tinggi ,Rumah 18,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,668000000,45,88,2,1,1
+430,Mansion Hill Tanah Tinggi ,Rumah 19,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,679000000,45,92,2,1,1
+431,Mansion Hill Tanah Tinggi ,Rumah 20,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,685000000,45,91,2,1,1
+432,Mansion Hill Tanah Tinggi ,Rumah 21,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,800000000,45,94,2,1,1
+433,Mansion Hill Tanah Tinggi ,Rumah 22,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,757000000,45,104,2,1,1
+434,Mansion Hill Tanah Tinggi ,Rumah 23,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,790000000,45,110,2,1,1
+435,Mansion Hill Tanah Tinggi ,Rumah 24,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,834000000,104,60,2,1,1
+436,Mansion Hill Tanah Tinggi ,Rumah 25,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 1 Juta aja - Free Biaya,Indent ,1027000000,104,89,2,1,1
+437,Mansion Hill Sukawangi,Rumah 1,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,315000000,30,66,2,1,1
+438,Mansion Hill Sukawangi,Rumah 2,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,365000000,35,72,2,1,1
+439,Mansion Hill Sukawangi,Rumah 3,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,392000000,35,78,2,1,1
+440,Mansion Hill Sukawangi,Rumah 4,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,800000000,63,84,2,1,1
+441,Mansion Hill Sukawangi,Rumah 5,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,908000000,63,108,2,1,1
+442,Mansion Hill Sukamekar Raya,Rumah 1,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,359000000,36,58,2,1,1
+443,Mansion Hill Sukamekar Raya,Rumah 2,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,364000000,36,59,2,1,1
+444,Mansion Hill Sukamekar Raya,Rumah 3,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,367000000,36,60,2,1,1
+445,Mansion Hill Sukamekar Raya,Rumah 4,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,373000000,36,61,2,1,1
+446,Mansion Hill Sukamekar Raya,Rumah 5,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,400000000,36,66,2,1,1
+447,Mansion Hill Sukamekar Raya,Rumah 6,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,406000000,36,67,2,1,1
+448,Mansion Hill Sukamekar Raya,Rumah 7,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,423000000,36,70,2,1,1
+449,Mansion Hill Sukamekar Raya,Rumah 8,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,428000000,36,71,2,1,1
+450,Mansion Hill Sukamekar Raya,Rumah 9,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,456000000,36,76,2,1,1
+451,Mansion Hill Sukamekar Raya,Rumah 10,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,478000000,36,80,2,1,1
+452,Mansion Hill Sukamekar Raya,Rumah 11,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,534000000,36,90,2,1,1
+453,Mansion Hill Sukamekar Raya,Rumah 12,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,589000000,36,100,2,1,1
+454,Mansion Hill Sukamekar Raya,Rumah 13,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,595000000,36,101,2,1,1
+455,Mansion Hill Sukamekar Raya,Rumah 14,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,634000000,36,108,2,1,1
+456,Mansion Hill Sukamekar Raya,Rumah 15,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,678000000,36,116,2,1,1
+457,Mansion Hill Sukamekar Raya,Rumah 16,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,550000000,54,73,2,1,1
+458,Mansion Hill Sukamekar Raya,Rumah 17,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,706000000,54,101,2,1,1
+459,Mansion Hill Samudra Jaya ,Rumah 1,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,485000000,36,60,2,1,1
+460,Mansion Hill Samudra Jaya ,Rumah 2,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,491000000,36,61,2,1,1
+461,Mansion Hill Samudra Jaya ,Rumah 3,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,497000000,36,62,2,1,1
+462,Mansion Hill Samudra Jaya ,Rumah 4,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,503000000,36,63,2,1,1
+463,Mansion Hill Samudra Jaya ,Rumah 5,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,509000000,36,64,2,1,1
+464,Mansion Hill Samudra Jaya ,Rumah 6,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,515000000,36,65,2,1,1
+465,Mansion Hill Samudra Jaya ,Rumah 7,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,521000000,36,66,2,1,1
+466,Mansion Hill Samudra Jaya ,Rumah 8,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,527000000,36,67,2,1,1
+467,Mansion Hill Samudra Jaya ,Rumah 9,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,533000000,36,68,2,1,1
+468,Mansion Hill Samudra Jaya ,Rumah 10,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,550000000,45,70,2,1,1
+469,Mansion Hill Samudra Jaya ,Rumah 11,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,556000000,45,71,2,1,1
+470,Mansion Hill Samudra Jaya ,Rumah 12,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,562000000,45,72,2,1,1
+471,Mansion Hill Samudra Jaya ,Rumah 13,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,568000000,45,73,2,1,1
+472,Mansion Hill Samudra Jaya ,Rumah 14,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,574000000,45,74,2,1,1
+473,Mansion Hill Samudra Jaya ,Rumah 15,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,580000000,45,75,2,1,1
+474,Mansion Hill Samudra Jaya ,Rumah 16,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,586000000,45,76,2,1,1
+475,Mansion Hill Samudra Jaya ,Rumah 17,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,592000000,45,77,2,1,1
+476,Mansion Hill Samudra Jaya ,Rumah 18,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,598000000,45,78,2,1,1
+477,Mansion Hill Samudra Jaya ,Rumah 19,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,610000000,45,80,2,1,1
+478,Mansion Hill Samudra Jaya ,Rumah 20,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,616000000,45,81,2,1,1
+479,Mansion Hill Samudra Jaya ,Rumah 21,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,622000000,45,82,2,1,1
+480,Mansion Hill Samudra Jaya ,Rumah 22,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,634000000,45,84,2,1,1
+481,Mansion Hill Samudra Jaya ,Rumah 23,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,640000000,45,85,2,1,1
+482,Mansion Hill Samudra Jaya ,Rumah 24,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,646000000,45,86,2,1,1
+483,Mansion Hill Samudra Jaya ,Rumah 25,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,652000000,45,87,2,1,1
+484,Mansion Hill Samudra Jaya ,Rumah 26,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,658000000,45,88,2,1,1
+485,Mansion Hill Samudra Jaya ,Rumah 27,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,670000000,45,90,2,1,1
+486,Mansion Hill Samudra Jaya ,Rumah 28,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,754000000,45,97,2,1,1
+487,Mansion Hill Samudra Jaya ,Rumah 29,Tarumajaya,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,940000000,45,100,2,1,1
+488,Permata Residence Satriamekar,Rumah 1,Tambun Utara,Rumah Cuma 2 Jt di Lokasi Strategis Sudah SHM,Indent ,470000000,36,60,2,1,1
+489,Permata Residence Satriamekar,Rumah 2,Tambun Utara,Rumah Cuma 2 Jt di Lokasi Strategis Sudah SHM,Indent ,530000000,45,72,2,1,1
+490,Mansion Hill Jejalen Jaya,Rumah 1,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,435000000,36,60,2,1,1
+491,Mansion Hill Jejalen Jaya,Rumah 2,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,453000000,36,66,2,1,1
+492,Mansion Hill Jejalen Jaya,Rumah 3,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,471000000,45,72,2,1,1
+493,Mansion Hill Jejalen Jaya,Rumah 4,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,489000000,45,78,2,1,1
+494,Mansion Hill Jejalen Jaya,Rumah 5,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,501000000,45,82,2,1,1
+495,Mansion Hill Jejalen Jaya,Rumah 6,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,543000000,45,96,2,1,1
+496,Mansion Hill Jejalen Jaya,Rumah 7,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,555000000,45,100,2,1,1
+497,Mansion Hill Sumberjaya,Rumah 1,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,540000000,45,80,2,1,1
+498,Mansion Hill Sumberjaya,Rumah 2,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,543000000,45,81,2,1,1
+499,Mansion Hill Sumberjaya,Rumah 3,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,546000000,45,82,2,1,1
+500,Mansion Hill Sumberjaya,Rumah 4,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,576000000,45,92,2,1,1
+501,Mansion Hill Sumberjaya,Rumah 5,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,582000000,45,94,2,1,1
+502,Mansion Hill Sumberjaya,Rumah 6,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,588000000,45,96,2,1,1
+503,Mansion Hill Sumberjaya,Rumah 7,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,594000000,45,98,2,1,1
+504,Mansion Hill Sumberjaya,Rumah 8,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,600000000,45,100,2,1,1
+505,Mansion Hill Sumberjaya,Rumah 9,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,657000000,45,119,2,1,1
+506,Mansion Hill Sumberjaya,Rumah 10,Tambun Selatan,Rumah Murah Spesifikasi Korea Cuma 3 Juta & Cicilan 2 Juta,Indent ,696000000,45,132,2,1,1
+507,Mansion Hill Mekarwangi,Rumah 1,Cikarang Barat ,Rumah Murah Spesifikasi Korea,Indent ,310000000,36,60,2,1,1
+508,Mansion Hill Mekarwangi,Rumah 2,Cikarang Barat ,Rumah Murah Spesifikasi Korea,Indent ,375000000,45,70,2,1,1
+509,Mansion Hill Sukamekar,Rumah 1,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,295000000,36,60,2,1,1
+510,Mansion Hill Sukamekar,Rumah 2,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,299000000,36,61,2,1,1
+511,Mansion Hill Sukamekar,Rumah 3,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,313000000,36,64,2,1,1
+512,Mansion Hill Sukamekar,Rumah 4,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,317000000,36,65,2,1,1
+513,Mansion Hill Sukamekar,Rumah 5,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,326000000,36,67,2,1,1
+514,Mansion Hill Sukamekar,Rumah 6,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,331000000,36,68,2,1,1
+515,Mansion Hill Sukamekar,Rumah 7,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,335000000,36,69,2,1,1
+516,Mansion Hill Sukamekar,Rumah 8,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,355000000,45,70,2,1,1
+517,Mansion Hill Sukamekar,Rumah 9,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,364000000,45,72,2,1,1
+518,Mansion Hill Sukamekar,Rumah 10,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,422000000,45,85,2,1,1
+519,Mansion Hill Sukamekar,Rumah 11,Sukawangi,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 1.5 Jutaan,Indent ,440000000,45,89,2,1,1
+520,Mansion Hill Jejalen,Rumah 1,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,330000000,38,60,2,1,1
+521,Mansion Hill Jejalen,Rumah 2,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,333000000,38,61,2,1,1
+522,Mansion Hill Jejalen,Rumah 3,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,336000000,38,62,2,1,1
+523,Mansion Hill Jejalen,Rumah 4,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,339000000,38,63,2,1,1
+524,Mansion Hill Jejalen,Rumah 5,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,345000000,38,65,2,1,1
+525,Mansion Hill Jejalen,Rumah 6,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,354000000,38,68,2,1,1
+526,Mansion Hill Jejalen,Rumah 7,Tambun Utara,Rumah Murah Spesifikasi Korea Cuma 2 Juta & Cicilan 2 Juta,Indent ,375000000,40,75,2,1,1
+527,Babelan Garden City ,Rumah 1,Babelan,Rumah Subsidi Terlaris di Babelan Lingkungan Sekeliling Harga 500 Jt-an ke atas  ,Indent ,168000000,30,60,2,1,1
+528,Cikarang Griya Pratama,Rumah 1,Sukatani,Rumah Subsidi Ready Siap Huni Cuma Rp1 Juta,Indent ,181000000,30,60,2,1,0
+529,Cikarang Griya Pratama,Rumah 2,Sukatani,Rumah Komersil Cukup Bawa Berkas Langsung Huni,Indent ,333000000,36,72,2,1,1
+530,Bumi Trias Alam Sejahtera 1,Rumah 1,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,440000000,36,60,2,1,1
+531,Bumi Trias Alam Sejahtera 1,Rumah 2,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,449000000,36,63,2,1,1
+532,Bumi Trias Alam Sejahtera 1,Rumah 3,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,458000000,36,66,2,1,1
+533,Bumi Trias Alam Sejahtera 1,Rumah 4,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,464000000,36,68,2,1,1
+534,Bumi Trias Alam Sejahtera 1,Rumah 5,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,478000000,40,73,2,1,1
+535,Bumi Trias Alam Sejahtera 1,Rumah 6,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,485000000,40,75,2,1,1
+536,Panjibuwono,Majapahit Lake Homes,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,611140000,36,72,2,1,1
+537,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,654088000,36,77,2,1,1
+538,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,692804000,36,84,2,1,1
+539,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,725993000,36,90,2,1,1
+540,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,825574000,36,108,2,1,1
+541,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,864305000,36,115,2,1,1
+542,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,891964000,36,120,2,1,1
+543,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,908551000,36,123,2,1,1
+544,Panjibuwono,Majapahit Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,1057922000,36,150,2,1,1
+545,Panjibuwono,Majapahit Garden 33,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,595689000,33,72,2,1,1
+546,Panjibuwono,Majapahit Boulevard,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,671440000,43,72,2,1,1
+547,Panjibuwono,Orchid Batako ,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,428156000,27,60,2,1,1
+548,Panjibuwono,Orchid Batako Hook,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,585617000,27,90,2,1,1
+549,Panjibuwono,Orchid Hebel ,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,453053000,27,60,2,1,1
+550,Panjibuwono,Orchid Hebel Hook ,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,610524000,27,90,2,1,1
+551,Panjibuwono,Orchid Batako ,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,428156000,27,60,2,1,1
+552,Panjibuwono,Orchid Hebel ,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,453053000,27,60,2,1,1
+553,Panjibuwono,Ayana ,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,583361000,34,72,2,1,1
+554,Panjibuwono,Jasmine,Babelan,Hunian Konsep Milenial yang Asri Nyaman dan Aman Cuma 1 Juta ,Indent ,555821000,36,72,2,1,1
+555,Panjibuwono,Casa Jardin 32,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,664296000,32,72,2,1,1
+556,Panjibuwono,Casa Jardin 32 Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,916160000,32,108,2,1,1
+557,Panjibuwono,Casa Jardin 32,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,701181000,32,78,2,1,1
+558,Panjibuwono,Casa Jardin 32 Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,971480000,32,117,2,1,1
+559,Panjibuwono,Casa Jardin 39,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,706791000,39,72,2,1,1
+560,Panjibuwono,Casa Jardin 39,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,743676000,39,78,2,1,1
+561,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,968656000,39,108,2,1,1
+562,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1020121000,39,118,2,1,1
+563,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1167642000,39,142,2,1,1
+564,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,970947000,39,110,2,1,1
+565,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1001685000,39,115,2,1,1
+566,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1013976000,39,117,2,1,1
+567,Panjibuwono,Casa Jardin Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1241410000,39,154,2,1,1
+568,Panjibuwono,Casablanca 36/78,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,725460000,36,78,2,1,1
+569,Panjibuwono,Casablanca 36/128,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1063382000,36,128,2,1,1
+570,Panjibuwono,Casablanca 45/78,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,780080000,45,78,2,1,1
+571,Panjibuwono,Casablanca 45/128,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1118002000,45,128,2,1,1
+572,Panjibuwono,Casa Grande ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,964939000,60,72,2,1,1
+573,Panjibuwono,Casa Grande ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1002740000,60,78,2,1,1
+574,Panjibuwono,Casa Grande Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1212436000,60,104,2,1,1
+575,Panjibuwono,Casa Familia ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,888187000,55,72,3,2,1
+576,Panjibuwono,Casa Familian Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1216802000,55,118,3,2,1
+577,Panjibuwono,Casa Familia ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,925072000,55,78,3,2,1
+578,Panjibuwono,Casa Familia Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1272122000,55,127,3,2,1
+579,Panjibuwono,T53 (2Lt),Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,909853000,53,78,3,2,1
+580,Panjibuwono,T53 Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1379844000,53,147,3,2,1
+581,Panjibuwono,T61 (2Lt - 3 Kamar),Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,970700000,61,78,3,2,1
+582,Panjibuwono,T61 Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1440708000,61,147,3,2,1
+583,Panjibuwono,T70 (2Lt - 3 Kamar),Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1063136000,70,78,3,2,1
+584,Panjibuwono,T70 Hook ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1276803000,70,104,3,2,1
+585,Panjibuwono,T75 (2Lt),Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1185064000,75,91,3,2,1
+586,Panjibuwono,T75 Hook,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1560090000,75,142,3,2,1
+587,Panjibuwono,Zinnia ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,911015000,58,72,3,2,1
+588,Panjibuwono,New Casa Grande ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,930984000,58,72,3,2,1
+589,Panjibuwono,Casa Familia ,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,888187000,55,72,3,2,1
+590,Panjibuwono,Ruko The Plaza 2 Lt.,Babelan,Rumah Berbagai Karakter dengan Fasilitas Kolam Renang ,Indent ,1235083000,81,55,3,2,1
+591,Darmawangsa,Padma 33/60,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,576323000,33,60,2,1,1
+592,Darmawangsa,Padma 33/66,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,613206000,33,66,2,1,1
+593,Darmawangsa,Padma Hook 33/80,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,729840000,33,80,2,1,1
+594,Darmawangsa,Padma Hook 33/90,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,791303000,33,90,2,1,1
+595,Darmawangsa,Padma Hook 33/100,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,852767000,33,100,2,1,1
+596,Darmawangsa,Sadewa 1,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,629925000,34,72,2,1,1
+597,Darmawangsa,Sadewa 1 34/70,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,618159000,34,70,2,1,1
+598,Darmawangsa,Sadewa 1 34/78,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,665334000,34,78,2,1,1
+599,Darmawangsa,Sadewa 1 34/84,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,700743000,34,84,2,1,1
+600,Darmawangsa,Sadewa 1 34/86,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,712509000,34,86,2,1,1
+601,Darmawangsa,Sadewa 1 34/89,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,730269000,34,89,2,1,1
+602,Darmawangsa,Sadewa 1 34/90,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,764790000,34,90,2,1,1
+603,Darmawangsa,Sadewa 1 34/92,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,747918000,34,92,2,1,1
+604,Darmawangsa,Sadewa 1 34/94,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,788322000,34,94,2,1,1
+605,Darmawangsa,Sadewa 1 34/104,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,847485000,34,104,2,1,1
+606,Darmawangsa,Sadewa 1 34/106,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,859140000,34,106,2,1,1
+607,Darmawangsa,Sadewa 1 34/122,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,953823000,34,122,2,1,1
+608,Darmawangsa,Sadewa 1 34/129,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,995004000,34,129,2,1,1
+609,Darmawangsa,Sadewa 1 34/137,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1042179000,34,137,2,1,1
+610,Darmawangsa,New! Sadewa 2 STD,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,632256000,34,72,2,1,1
+611,Darmawangsa,New! Sadewa 2 Hook,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1015095000,34,132,2,1,1
+612,Darmawangsa,New! Sadewa 2 Garden View,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,653124000,34,72,2,1,1
+613,Darmawangsa,Sadewa 2 Hook Garden 1,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,904539000,34,108,2,1,1
+614,Darmawangsa,Sadewa 2 Hook Garden 2,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,892218000,34,106,2,1,1
+615,Darmawangsa,Ashta Suite,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,750820000,34,78,2,1,1
+616,Darmawangsa,Ashta Suite Hook 1,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1045098000,34,117,2,1,1
+617,Darmawangsa,Ashta Suite Hook 2,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1173570000,34,136,2,1,1
+618,Darmawangsa,Ashta Suite Hook 3,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1180315000,34,137,2,1,1
+619,Darmawangsa,Ashta Suite Hook 4,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1220881000,34,143,2,1,1
+620,Darmawangsa,Ashta Suite Hook 5,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1329069000,34,159,2,1,1
+621,Darmawangsa,Ashta Suite Hook 6,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1376410000,34,16,2,1,1
+622,Darmawangsa,Ashta Suite Hook 7,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1498106000,34,184,2,1,1
+623,Darmawangsa,Ashta Grande,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1092192000,60,84,2,1,1
+624,Darmawangsa,Ashta Grande Hook 1,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1517662000,60,140,2,1,1
+625,Darmawangsa,Ashta Grande Hook 2,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1566058000,60,147,2,1,1
+626,Darmawangsa,Ashta Grande Hook 3,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1614465000,60,154,2,1,1
+627,Darmawangsa,Pandawa,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,932622000,59,78,2,1,1
+628,Darmawangsa,Pandawa Garden Hook 1,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1352091000,59,143,2,1,1
+629,Darmawangsa,Pandawa Garden Hook 2,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1387500000,59,149,2,1,1
+630,Darmawangsa,Pandawa Garden Hook 3,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1417026000,59,154,2,1,1
+631,Darmawangsa,Pandawa Boulevard,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,992229000,59,84,2,1,1
+632,Darmawangsa,Pandawa Bldv Hook 1,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1275612000,59,124,2,1,1
+633,Darmawangsa,Pandawa Bldv Hook 2,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1287933000,59,126,2,1,1
+634,Darmawangsa,Pandawa Bldv Hook 3,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1325118000,59,132,2,1,1
+635,Darmawangsa,Pandawa Bldv Hook 4,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1331334000,59,133,2,1,1
+636,Darmawangsa,Pandawa Bldv Hook 5,Tambun Utara,Hunian 100 Ha2 dengan konsep Green Township,Indent ,1374735000,59,140,2,1,1
+637,Grand Duta City,Carmel AD2 Unit 1 T-39 Hk,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1046298488,39,90,2,1,1
+638,Grand Duta City,Carmel AD2 Unit 2 T-39 Hk,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+639,Grand Duta City,Carmel AD2 Unit 3 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+640,Grand Duta City,Carmel AD2 Unit 5 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+641,Grand Duta City,Carmel AD2 Unit 6 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+642,Grand Duta City,Carmel AD2 Unit 7 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+643,Grand Duta City,Carmel AD2 Unit 8 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+644,Grand Duta City,Carmel AD2 Unit 9 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+645,Grand Duta City,Carmel AD2 Unit 10 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+646,Grand Duta City,Carmel AD2 Unit 11 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+647,Grand Duta City,Carmel AD2 Unit 12 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+648,Grand Duta City,Carmel AD2 Unit 15 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+649,Grand Duta City,Carmel AD2 Unit 16 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+650,Grand Duta City,Carmel AD2 Unit 17 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+651,Grand Duta City,Carmel AD2 Unit 18 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,856351125,39,60,2,1,1
+652,Grand Duta City,Carmel AD2 Unit 19 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+653,Grand Duta City,Carmel AD2 Unit 20 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+654,Grand Duta City,Carmel AD2 Unit 23 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+655,Grand Duta City,Carmel AD2 Unit 25 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+656,Grand Duta City,Carmel AD2 Unit 26 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+657,Grand Duta City,Carmel AD2 Unit 27 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+658,Grand Duta City,Carmel AD2 Unit 28 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+659,Grand Duta City,Carmel AD2 Unit 29 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+660,Grand Duta City,Carmel AD2 Unit 30 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+661,Grand Duta City,Carmel AD2 Unit 31 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,971735625,47,72,2,1,1
+662,Grand Duta City,Carmel AD2 Unit 32 T-39,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1004952375,47,72,2,1,1
+663,Grand Duta City,Manhattan AE5 Unit 9 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1679747738,65,107,2,1,1
+664,Grand Duta City,Manhattan AE5 Unit 10 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1394112825,65,78,2,1,1
+665,Grand Duta City,Manhattan AE5 Unit 11 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1394112825,65,78,2,1,1
+666,Grand Duta City,Manhattan AE5 Unit 12 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1394112825,65,78,2,1,1
+667,Grand Duta City,Manhattan AE5 Unit 15 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1394112825,65,78,2,1,1
+668,Grand Duta City,Manhattan AE5 Unit 16 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1687964513,65,108,2,1,1
+669,Grand Duta City,Manhattan AE5 Unit 17 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1687964513,65,106,2,1,1
+670,Grand Duta City,Manhattan AE5 Unit 18 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1371385575,65,78,2,1,1
+671,Grand Duta City,Manhattan AE5 Unit 19 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1371385575,65,78,2,1,1
+672,Grand Duta City,Manhattan AE5 Unit 20 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1371385575,65,78,2,1,1
+673,Grand Duta City,Manhattan AE5 Unit 21 T-65,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1371385575,65,78,2,1,1
+674,Grand Duta City,Pasadena EB7 Unit 16 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1405855238,47,132,2,1,1
+675,Grand Duta City,Pasadena EB7 Unit 17 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+676,Grand Duta City,Pasadena EB7 Unit 18 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+677,Grand Duta City,Pasadena EB7 Unit 19 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+678,Grand Duta City,Pasadena EB7 Unit 20 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+679,Grand Duta City,Pasadena EB7 Unit 21 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+680,Grand Duta City,Pasadena EB7 Unit 22 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+681,Grand Duta City,Pasadena EB7 Unit 23 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+682,Grand Duta City,Pasadena EB7 Unit 25 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+683,Grand Duta City,Pasadena EB7 Unit 26 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+684,Grand Duta City,Pasadena EB7 Unit 27 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1016957025,47,72,2,1,1
+685,Grand Duta City,Pasadena EB7 Unit 28 T-47,Babelan,New Modern Township with Central Business District di Bekasi ,Indent ,1333827338,47,120,2,1,1
+686,Taman Sukamulya Indah,Rumah 1,Sukatani,Rumah Subsidi Ready Siap Huni cuma Rp 1 Jt,Indent ,168000000,29,60,2,1,1
+687,Dutaland,Rumah 1,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,168000000,30,60,2,1,1
+688,Dutaland,Rumah 2,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,318000000,30,119,2,1,1
+689,Dutaland,Rumah 3,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,250000000,30,88,2,1,1
+690,Dutaland,Rumah 4,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,168000000,30,60,2,1,1
+691,Dutaland,Rumah 5,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,290000000,30,103,2,1,1
+692,Dutaland,Rumah 6,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,338000000,30,124,2,1,1
+693,Dutaland,Rumah 7,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,286000000,30,101,2,1,1
+694,Dutaland,Rumah 8,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,338000000,30,124,2,1,1
+695,Dutaland,Rumah 9,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,286000000,30,101,2,1,1
+696,Dutaland,Rumah 10,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,327000000,30,123,2,1,1
+697,Dutaland,Rumah 11,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,314000000,30,117,2,1,1
+698,Dutaland,Rumah 12,Sukawangi,Rumah Subsidi Baru Banyak Unitnya,Indent ,270000000,30,97,2,1,1
+699,Bekasi Green Village,Rumah 1,Sukawangi,Rumah Subsidi Kualitas Prima,Indent ,168000000,27,60,2,1,1
+700,Alma Residence,Alma 6,Setu,Hunian Elegan Strategis Anti Banjir,Indent ,462100000,36,72,2,1,1
+701,Alma Residence,Alma 7,Setu,Hunian Elegan Strategis Anti Banjir,Indent ,518000000,42,72,2,1,1
+702,Gria Indah,Rumah 1,Cibarusah,Rumah Subsidi Paling Bagus di Cibarusah,Indent ,168000000,33,66,2,1,1
+703,Bumi Eka Srijaya,Rumah 1,Tambun Utara,Rumah Subsidi dengan 7 Keunggulan,Indent ,168000000,30,60,2,1,0
+704,Bintang Perdana Regency,Rumah 1,Cibitung,Rumah Baru Exclusive Super Luas & Tinggi,Indent ,380000000,38,72,2,1,1
+705,Bintang Perdana Regency,Rumah 2,Cibitung,Rumah Baru Exclusive Super Luas & Tinggi,Indent ,470000000,38,108,2,1,1
+706,Permata Sukatenang Indah,Rumah 1,Sukawangi,Rumah Subsidi Rasa Komersil cuma 7 Jt,Indent ,179000000,27,60,2,1,0
+707,Srimahi Residence,Rumah 1,Tambun Utara,Rumah Komersil cuma 2 Jt di Tambun Bekasi,Indent ,260000000,33,60,2,1,1
+708,Mansion Hill Karangsatria,Rumah 1,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,440000000,36,60,3,2,1
+709,Mansion Hill Karangsatria,Rumah 2,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,542000000,45,72,3,2,1
+710,Mansion Hill Karangsatria,Rumah 3,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,710000000,72,60,3,2,1
+711,Mansion Hill Karangsatria,Rumah 4,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,734000000,72,64,3,2,1
+712,Mansion Hill Karangsatria,Rumah 5,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,740000000,72,65,3,2,1
+713,Mansion Hill Karangsatria,Rumah 6,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,746000000,72,66,3,2,1
+714,Mansion Hill Karangsatria,Rumah 7,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,776000000,72,71,3,2,1
+715,Mansion Hill Karangsatria,Rumah 8,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,800000000,72,75,3,2,1
+716,Mansion Hill Karangsatria,Rumah 9,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,806000000,72,76,3,2,1
+717,Mansion Hill Karangsatria,Rumah 10,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,824000000,72,79,3,2,1
+718,Mansion Hill Karangsatria,Rumah 11,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,842000000,72,82,3,2,1
+719,Mansion Hill Karangsatria,Rumah 12,Tambun Utara,Rumah Murah Spesifikasi Korea Sisa 2 Lt.,Indent ,854000000,72,84,3,2,1
+720,Wiratama Residence 2,Lavender 1,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,450000000,32,60,2,1,1
+721,Wiratama Residence 2,Lavender 2,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,543750000,32,90,2,1,1
+722,Wiratama Residence 2,Lavender 3,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,578125000,32,101,2,1,1
+723,Wiratama Residence 2,Edelweis 1,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,525000000,36,72,2,1,1
+724,Wiratama Residence 2,Edelweis 2,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,637500000,36,108,2,1,1
+725,Wiratama Residence 2,Edelweis Elok A,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,575000000,36,72,2,1,1
+726,Wiratama Residence 2,Edelweis Elok B,Setu,Rumah Lingkungan Premium cuma 3 Jt siap Huni,Indent ,575000000,36,72,2,1,1
+727,Arta Angsana,Oasis 1 Unit 21,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,626017800,36,70,2,1,1
+728,Arta Angsana,Oasis 1 Unit 22,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,626017800,36,70,2,1,1
+729,Arta Angsana,Oasis 1 Unit 23,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,632289300,36,71,2,1,1
+730,Arta Angsana,Oasis 1 Unit 24,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+731,Arta Angsana,Oasis 1 Unit 27,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+732,Arta Angsana,Oasis 1 Unit 28,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+733,Arta Angsana,Oasis 1 Unit 29,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+734,Arta Angsana,Oasis 1 Unit 30,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+735,Arta Angsana,Oasis 2 Unit 2,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+736,Arta Angsana,Oasis 2 Unit 3,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+737,Arta Angsana,Oasis 2 Unit 4,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+738,Arta Angsana,Oasis 2 Unit 5,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+739,Arta Angsana,Oasis 2 Unit 6,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+740,Arta Angsana,Oasis 2 Unit 7,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+741,Arta Angsana,Oasis 2 Unit 8,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+742,Arta Angsana,Oasis 2 Unit 9,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+743,Arta Angsana,Oasis 2 Unit 10,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+744,Arta Angsana,Oasis 2 Unit 11,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,638560800,36,72,2,1,1
+745,Arta Angsana,Oasis 2 Unit 12,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,807891300,36,99,2,1,1
+746,Arta Angsana,Oasis 2 Unit 1,Karangbahagia,Rumah Exclusive Full Furnish,Indent ,876877800,36,100,2,1,1
+747,Mede Sukamekar Indah,Rumah 1,Sukawangi,Made Sukamekar Indah,Indent ,310000000,36,60,2,1,1
+748,Mede Sukamekar Indah,Rumah 2,Sukawangi,Made Sukamekar Indah,Indent ,399000000,36,60,2,1,1
+749,Jasmine Permai,Rumah 1,Babelan,Hunian Terbaik Generasi Millenial di Bekasi,Indent ,350100000,36,60,2,1,1
+750,Jasmine Permai,Rumah 2,Babelan,Hunian Terbaik Generasi Millenial di Bekasi,Indent ,352800000,36,61,2,1,1
+751,Jasmine Permai,Rumah 3,Babelan,Hunian Terbaik Generasi Millenial di Bekasi,Indent ,363600000,36,64,2,1,1
+752,Jasmine Permai,Rumah 4,Babelan,Hunian Terbaik Generasi Millenial di Bekasi,Indent ,366300000,36,65,2,1,1
+753,Jasmine Permai,Rumah 5,Babelan,Hunian Terbaik Generasi Millenial di Bekasi,Indent ,36900000,36,66,2,1,1
+754,Jasmine Permai,Rumah 6,Babelan,Hunian Terbaik Generasi Millenial di Bekasi,Indent ,377100000,36,69,2,1,1
+755,De Garden,Viola 1,Tambun Utara,Rumah Living Full Furnish,Indent ,1003000000,55,87,2,2,2
+756,De Garden,Viola 2 ,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+757,De Garden,Viola 3,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+758,De Garden,Viola 4,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+759,De Garden,Viola 5,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+760,De Garden,Viola 6,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+761,De Garden,Viola 7,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+762,De Garden,Viola 8,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+763,De Garden,Viola 9,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+764,De Garden,Viola 10,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+765,De Garden,Viola 11,Tambun Utara,Rumah Living Full Furnish,Indent ,954000000,55,80,2,2,2
+766,De Garden,Viola 12,Tambun Utara,Rumah Living Full Furnish,Indent ,1003000000,55,87,2,2,2
+767,De Garden,Viola 13,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+768,De Garden,Viola 14,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+769,De Garden,Viola 15,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+770,De Garden,Viola 16,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+771,De Garden,Viola 17,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+772,De Garden,Viola 18,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+773,De Garden,Viola 19,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+774,De Garden,Viola 20,Tambun Utara,Rumah Living Full Furnish,Indent ,1023000000,55,90,2,2,2
+775,De Garden,Viola 21,Tambun Utara,Rumah Living Full Furnish,Indent ,939000000,55,78,2,2,2
+776,De Garden,Viola 22,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+777,De Garden,Viola 23,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+778,De Garden,Viola 24,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+779,De Garden,Viola 25,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+780,De Garden,Viola 26,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+781,De Garden,Viola 27,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+782,De Garden,Viola 28,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+783,De Garden,Viola 29,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+784,De Garden,Viola 30,Tambun Utara,Rumah Living Full Furnish,Indent ,798000000,55,60,2,2,2
+785,De Garden,Viola 31,Tambun Utara,Rumah Living Full Furnish,Indent ,1136000000,55,106,2,2,2
+786,De Garden,Viola 32,Tambun Utara,Rumah Living Full Furnish,Indent ,882000000,55,72,2,2,2
+787,De Garden,Viola 33,Tambun Utara,Rumah Living Full Furnish,Indent ,882000000,55,72,2,2,2
+788,De Garden,Viola 34,Tambun Utara,Rumah Living Full Furnish,Indent ,882000000,55,72,2,2,2
+789,De Garden,Viola 35,Tambun Utara,Rumah Living Full Furnish,Indent ,890000000,55,72,2,2,2
+790,De Garden,Viola 36,Tambun Utara,Rumah Living Full Furnish,Indent ,890000000,55,72,2,2,2
+791,De Garden,Viola 37,Tambun Utara,Rumah Living Full Furnish,Indent ,1214000000,55,116,2,2,2
+792,De Garden,Viola 38,Tambun Utara,Rumah Living Full Furnish,Indent ,813000000,55,60,2,2,2
+793,Panorama Bekasi,Rumah 1,Tambun Utara,Hunia Asri Berkualitas & Nyaman Spesifikasi 2 Lt. Harga 1 Lt.,Indent ,397000000,30,60,2,2,1
+794,Panorama Bekasi,Rumah 2,Tambun Utara,Hunia Asri Berkualitas & Nyaman Spesifikasi 2 Lt. Harga 1 Lt.,Indent ,485000000,36,72,2,2,1
+795,Panorama Bekasi,Rumah 3,Tambun Utara,Hunia Asri Berkualitas & Nyaman Spesifikasi 2 Lt. Harga 1 Lt.,Indent ,538000000,40,84,2,2,1
+796,Panorama Bekasi,Rumah 4,Tambun Utara,Hunia Asri Berkualitas & Nyaman Spesifikasi 2 Lt. Harga 1 Lt.,Indent ,615500000,50,90,2,2,1
+797,Orchad Village,Tahap 1 BB-30,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,794902500,36,162,2,2,1
+798,Orchad Village,Tahap 1 EC-26,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,662471250,32,117,2,2,1
+799,Orchad Village,Tahap 1 FA-10,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,676935000,36,112,2,2,1
+800,Orchad Village,Tipe Lily BA-10,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,997872750,66,98,2,2,1
+801,Orchad Village,Tipe Linnea DA-01,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,1205801000,45,164,2,2,1
+802,Orchad Village,Tipe Linnea DA-07,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,897872750,45,98,2,2,1
+803,Orchad Village,Tipe Linnea DA-08,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,1150235000,45,152,2,2,1
+804,Orchad Village,Tipe Linnea DA-09,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,678037500,45,86,2,2,1
+805,Orchad Village,Tipe Linnea DA-16,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,640993500,45,78,2,2,1
+806,Orchad Village,Tipe Linnea DA-17,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,877149000,45,129,2,2,1
+807,Orchad Village,Tipe Linnea DB-1,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,816952500,45,116,2,2,1
+808,Orchad Village,Tipe Linnea DB-06,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,640993500,45,78,2,2,1
+809,Orchad Village,Tipe Linnea DB-07,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,915380000,45,149,2,2,1
+810,Orchad Village,Tipe Danica DB-08,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,828859500,36,122,2,2,1
+811,Orchad Village,Tipe Danica DB-13,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,541768500,36,72,2,2,1
+812,Orchad Village,Tipe Danica DB-14,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,703836000,36,107,2,2,1
+813,Orchad Village,Tipe Danica DC-01,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,648270000,36,95,2,2,1
+814,Orchad Village,Tipe Danica DC-06,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,541768500,36,72,2,2,1
+815,Orchad Village,Tipe Danica DC-07,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,717336000,36,110,2,2,1
+816,Orchad Village,Tipe Danica DC-08,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,648270000,36,95,2,2,1
+817,Orchad Village,Tipe Danica DC-13,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,541768500,36,72,2,2,1
+818,Orchad Village,Tipe Danica DC-14,Babelan,Hunian Exclusive Strategis di Bekasi Bangunan dengan Tiang Pancag yang Kuat,Indent ,648270000,36,95,2,2,1
+819,Alora Springhill,Rumah A1 Unit 12A,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,888880000,55,100,2,2,1
+820,Alora Springhill,Rumah A1 Unit 12B,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,738880000,55,60,2,2,1
+821,Alora Springhill,Rumah A1 Unit 15,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,738880000,55,60,2,2,1
+822,Alora Springhill,Rumah A1 Unit 16,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,738880000,55,60,2,2,1
+823,Alora Springhill,Rumah A1 Unit 17,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,738880000,55,60,2,2,1
+824,Alora Springhill,Rumah A1 Unit 18,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,738880000,55,60,2,2,1
+825,Alora Springhill,Rumah A2 Unit 1,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,929900000,60,108,2,2,1
+826,Alora Springhill,Rumah A2 Unit 2,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,806880000,60,72,2,2,1
+827,Alora Springhill,Rumah A3 Unit 1,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,858880000,55,90,2,2,1
+828,Alora Springhill,Rumah A3 Unit 2,Babelan,Rumah Konsep Jepang Exclusive Hanya 3 Jt-an,Indent ,738880000,55,60,2,2,1
+829,Bukit Sentosa Residance ,Rumah 1,Karangbahagia,Rumah Ready Exclusive dengan Mini Garden ,Indent ,178000000,30,60,2,2,1
+830,Bukit Sentosa Residance ,Rumah 2,Karangbahagia,Rumah Ready Exclusive dengan Mini Garden ,Indent ,245000000,36,72,2,2,1
+831,Bukit Sentosa Residance ,Rumah 3,Karangbahagia,Rumah Ready Exclusive dengan Mini Garden ,Indent ,290000000,36,60,2,2,1
+832,Bukit Sentosa Residance ,Rumah 4,Karangbahagia,Rumah Ready Exclusive dengan Mini Garden ,Indent ,390000000,40,72,2,2,1
+833,Mustika Village ,Rumah 1,Sukatani,Rumah Komersil Kualitas Elite,Indent ,252000000,26,60,2,2,1
+834,Mustika Village ,Rumah 2,Sukatani,Rumah Komersil Kualitas Elite,Indent ,265000000,30,60,2,2,1
+835,Mustika Village ,Rumah 3,Sukatani,Rumah Komersil Kualitas Elite,Indent ,298000000,30,60,2,2,1
+836,Mustika Village ,Rumah 4,Sukatani,Rumah Komersil Kualitas Elite,Indent ,316000000,35,60,2,2,1
+837,Taman Asri Regency,Rumah 1,Tambun Utara,Rumah Subsidi Idaman di srimahi,Indent ,168000000,30,60,2,2,1
+838,Metland,Rumah BE 9 No 2-14,Cibitung,Metland Cibitung,Indent ,1030000000,64,98,2,2,1
+839,Metland,Rumah BE 9 No 15,Cibitung,Metland Cibitung,Indent ,1045000000,64,96,2,2,1
+840,Metland,Rumah BE 9 No 1,Cibitung,Metland Cibitung,Indent ,1186000000,64,120,2,2,1
+841,Metland,Rumah BE 10 Unit 1,Cibitung,Metland Cibitung,Indent ,675000000,38,72,2,1,1
+842,Metland,Rumah BE 10 Unit 2,Cibitung,Metland Cibitung,Indent ,682000000,38,72,2,1,1
+843,Metland,Rumah BE 10 Unit 3,Cibitung,Metland Cibitung,Indent ,885000000,51,84,2,1,1
+844,Metland,Rumah BE 10 Unit 4,Cibitung,Metland Cibitung,Indent ,898000000,51,84,2,1,1
+845,Metland,Rumah BE 10 Unit 5,Cibitung,Metland Cibitung,Indent ,917000000,53,84,2,1,1
+846,Metland,Rumah BE 11 Unit 1,Cibitung,Metland Cibitung,Indent ,675000000,38,72,2,1,1
+847,Metland,Rumah BE 11 Unit 2,Cibitung,Metland Cibitung,Indent ,682000000,38,72,2,1,1
+848,Metland,Rumah BE 11 Unit 3,Cibitung,Metland Cibitung,Indent ,945000000,38,122,2,1,1
+849,Metland,Rumah BE 11 Unit 4,Cibitung,Metland Cibitung,Indent ,986000000,38,131,2,1,1
+850,Metland,Rumah BE 14 Unit 1,Cibitung,Metland Cibitung,Indent ,675000000,38,72,2,1,1
+851,Metland,Rumah BE 14 Unit 1,Cibitung,Metland Cibitung,Indent ,682000000,38,72,2,1,1
+852,Metland,Rumah BE 14 Unit 1,Cibitung,Metland Cibitung,Indent ,771000000,38,86,2,1,1
+853,Metland,Rumah BE 14 Unit 1,Cibitung,Metland Cibitung,Indent ,805000000,38,92,2,1,1
+854,Metland,Rumah BE 15 Unit 1,Cibitung,Metland Cibitung,Indent ,675000000,38,72,2,1,1
+855,Metland,Rumah BE 15 Unit 2,Cibitung,Metland Cibitung,Indent ,682000000,38,72,2,1,1
+856,Metland,Rumah BE 16 Unit 1,Cibitung,Metland Cibitung,Indent ,675000000,38,72,2,1,1
+857,Metland,Rumah BE 16 Unit 2,Cibitung,Metland Cibitung,Indent ,682000000,38,72,2,1,1
+858,Metland,Rumah BE 16 Unit 3,Cibitung,Metland Cibitung,Indent ,737000000,38,78,2,1,1
+859,Sakinah Residence,Rumah 1,Tarumajaya,Rumah Syariah Limited Edition Dekat Kota Bekasi Bisa Custom Fasad & Layout,Indent ,280000000,36,60,2,1,1
+860,Sakinah Residence,Rumah 1,Tarumajaya,Rumah Syariah Limited Edition Dekat Kota Bekasi Bisa Custom Fasad & Layout,Indent ,360000000,36,72,2,1,1
+861,Sakinah Residence,Rumah 1,Tarumajaya,Rumah Syariah Limited Edition Dekat Kota Bekasi Bisa Custom Fasad & Layout,Indent ,430000000,45,84,2,1,1
+862,Grian Khalima,Teratai,Babelan ,"Rumah Baru di Babelan Cicilan Flat, DP Suka-Suka & Tanpa Denda",Indent ,425000000,38,60,2,1,1
+863,Grian Khalima,Lavender,Babelan ,"Rumah Baru di Babelan Cicilan Flat, DP Suka-Suka & Tanpa Denda",Indent ,465000000,45,72,2,1,1
+864,Grian Khalima,Anggrek,Babelan ,"Rumah Baru di Babelan Cicilan Flat, DP Suka-Suka & Tanpa Denda",Indent ,495000000,38,80,2,1,1
+865,Gria Asri Sriamur,Rumah 1,Tambun Utara,Rumah Baru di Tambun Banyak Bonusnya,Indent ,390000000,42,60,2,1,1
+866,Grand Ayudia,Rumah 1,Tambun Utara,Rumah Komersil Cukup 3 Jt Aja,Indent ,540000000,42,72,2,1,1
